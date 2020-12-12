@@ -12,6 +12,9 @@
 /.next/
 /out/
 
+#storybook
+/docs-build/
+
 # production
 /build
 
